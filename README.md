@@ -11,7 +11,7 @@
 
 🍓 Jam is an open source alternative to Clubhouse, Twitter Spaces and similar audio spaces.
 
-With Jam you can create audio rooms that can be used for panel discussions, jam sessions, free flowing conversations, debates, theatre plays, musicals and more. The only limit is your imagination.
+Wih Jam you can create audio rooms that can be used for panel discussions, jam sessions, free flowing conversations, debates, theatre plays, musicals and more. The only limit is your imagination.
 
 try Jam for free on [https://jam.systems/](https://jam.systems/)
 
