@@ -5,10 +5,9 @@
        height="300"/>
 </p>
 
-# Jam
 
 
-🍓 Jam is an open source alternative to Clubhouse, Twitter Spaces and similar audio spaces.
+BLARE is an open source alternative to Clubhouse, Twitter Spaces and similar audio spaces.
 
 Wih Jam you can create audio rooms that can be used for panel discussions, jam sessions, free flowing conversations, debates, theatre plays, musicals and more. The only limit is your imagination.
 
